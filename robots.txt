@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-dqn357.salamduit.xyz/sitemap.xml
